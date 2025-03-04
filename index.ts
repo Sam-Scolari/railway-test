@@ -1,1 +1,1 @@
-console.log("ENV", process.env.ENV);
+console.log("ENV", process.env);
